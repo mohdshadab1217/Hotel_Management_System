@@ -8,13 +8,13 @@ This is a simple Hotel Management System developed in Python that simulates basi
 
 2. 🏨 Room booking with limited availability:
 
- 1. Type A: 6000$ per day (2 rooms)
+    1. Type A: 6000$ per day (2 rooms)
 
- 2. Type B: 5000$ per day (2 rooms)
+    2. Type B: 5000$ per day (2 rooms)
 
- 3. Type C: 3000$ per day (2 rooms)
+    3. Type C: 3000$ per day (2 rooms)
 
- 4. Type D: 3000$ per day (2 rooms)
+    4. Type D: 3000$ per day (2 rooms)
 
 3. 📦 Inventory management – room availability decreases after booking.
 
