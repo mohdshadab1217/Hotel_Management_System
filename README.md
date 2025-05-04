@@ -1,13 +1,5 @@
 # Hotel_Management_System
 
-
-
-
-
-
-
-
-
 ## 🏨 Hotel Management System – Radisson Blue (Console-based)
 This is a simple Hotel Management System developed in Python that simulates basic hotel operations like booking rooms, calculating various bills, and maintaining guest records. It is designed for console use and mimics the working of a hotel front-desk system.
 
