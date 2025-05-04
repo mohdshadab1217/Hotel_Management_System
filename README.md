@@ -31,22 +31,22 @@ This is a simple Hotel Management System developed in Python that simulates basi
 ### 🖥️ Program Interface
 Here are some screenshots of how the system works:
 
-##### Customer Check-in and Room Booking
+#### Customer Check-in and Room Booking
 
 ![alt text](image/image.png)
 
 👆Enter guest name, address, choose room type. (Room availability is checked before finalizing.)
 
-##### Option to check your room rent
+#### Option to check your room rent
 
 ![alt text](image/image-1.png)
 
 
-##### Option to calculate restaurant, laundry, and game bills.
+#### Option to calculate restaurant, laundry, and game bills.
 
 ![alt text](image/image-2.png)
 
-##### Total Bill and Guest Summary
+#### Total Bill and Guest Summary
 
 ![alt text](image/image-3.png)
 
